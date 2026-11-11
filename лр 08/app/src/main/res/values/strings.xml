@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab08</string>
+    <string name="name_label">Имя</string>
+    <string name="save_button">Сохранить</string>
+    <string name="note_label">Заметка</string>
+    <string name="large_text_switch">Крупный текст</string>
+    <string name="font_size_label">Размер текста</string>
+    <string name="save_note_button">Сохранить заметку</string>
+    <string name="delete_note_button">Удалить заметку</string>
+    <string name="delete_confirmation_title">Удалить заметку?</string>
+    <string name="delete_confirmation_message">Текст заметки будет безвозвратно удалён.</string>
+    <string name="confirm">Удалить</string>
+    <string name="cancel">Отмена</string>
+    <string name="status_loading">Загрузка…</string>
+    <string name="status_ready">Готово</string>
+    <string name="status_saved_settings">Настройки сохранены</string>
+    <string name="status_settings_error">Не удалось прочитать настройки</string>
+    <string name="status_save_error">Ошибка записи</string>
+    <string name="status_note_saved">Заметка сохранена в файл</string>
+    <string name="status_note_error">Ошибка сохранения заметки</string>
+    <string name="status_note_deleted">Заметка удалена</string>
+</resources>
